@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "title": "Book One",
+        "authors": [
+            "Author One"
+        ],
+        "description": "This is the description for Book One.",
+        "publishedDate": "2020-01-01",
+        "image": "images/book1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Book Two",
+        "authors": [
+            "Author Two"
+        ],
+        "description": "This is the description for Book Two.",
+        "publishedDate": "2021-02-02",
+        "image": "images/book2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Book Three",
+        "authors": [
+            "Author Three"
+        ],
+        "description": "This is the description for Book Three.",
+        "publishedDate": "2019-03-03",
+        "image": "images/book3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Book Four",
+        "authors": [
+            "Author Four"
+        ],
+        "description": "This is the description for Book Four.",
+        "publishedDate": "2018-04-04",
+        "image": "images/book4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Book Five",
+        "authors": [
+            "Author Five"
+        ],
+        "description": "This is the description for Book Five.",
+        "publishedDate": "2017-05-05",
+        "image": "images/book5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Book Six",
+        "authors": [
+            "Author Six"
+        ],
+        "description": "This is the description for Book Six.",
+        "publishedDate": "2016-06-06",
+        "image": "images/book6.png"
+    },
+    {
+        "id": 7,
+        "title": "Book Seven",
+        "authors": [
+            "Author Seven"
+        ],
+        "description": "This is the description for Book Seven.",
+        "publishedDate": "2015-07-07",
+        "image": "images/book7.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Book Eight",
+        "authors": [
+            "Author Eight"
+        ],
+        "description": "This is the description for Book Eight.",
+        "publishedDate": "2014-08-08",
+        "image": "images/book8.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Book Nine",
+        "authors": [
+            "Author Nine"
+        ],
+        "description": "This is the description for Book Nine.",
+        "publishedDate": "2013-09-09",
+        "image": "images/book9.png"
+    },
+    {
+        "id": 10,
+        "title": "Book Ten",
+        "authors": [
+            "Author Ten"
+        ],
+        "description": "This is the description for Book Ten.",
+        "publishedDate": "2012-10-10",
+        "image": "images/book10.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Book Eleven",
+        "authors": [
+            "Author Eleven"
+        ],
+        "description": "This is the description for Book Eleven.",
+        "publishedDate": "2011-11-11",
+        "image": "images/book11.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Book Twelve",
+        "authors": [
+            "Author Twelve"
+        ],
+        "description": "This is the description for Book Twelve.",
+        "publishedDate": "2010-12-12",
+        "image": "images/book12.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Book Thirteen",
+        "authors": [
+            "Author Thirteen"
+        ],
+        "description": "This is the description for Book Thirteen.",
+        "publishedDate": "2009-01-13",
+        "image": "images/book13.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Book Fourteen",
+        "authors": [
+            "Author Fourteen"
+        ],
+        "description": "This is the description for Book Fourteen.",
+        "publishedDate": "2008-02-14",
+        "image": "images/book14.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Book Fifteen",
+        "authors": [
+            "Author Fifteen"
+        ],
+        "description": "This is the description for Book Fifteen.",
+        "publishedDate": "2007-03-15",
+        "image": "images/book15.jpg"
+    }
+]
